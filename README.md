@@ -13,12 +13,12 @@
 In this repository you will follow my progress during classes from level 01 to 06.
 
 
-### 📱 Anotations and other docs
+### 📝 Anotations and other docs
 <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/Rocketseat-Notes-about-Level-01-8ffdd35f253e4df4bfd3c2d1213d2fe1">Notes about level 01</a>
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/Rocketseat-Typescript-c4c08685bd9e48ff803fb2bd5bd53244">Typescript</a>
 
-### Level Results
+### 📈 Level Results
 Level 01<br />
 <img alt="Level 01 Result" src=".github/level-01.png" style="width: 100%;"/>
 
