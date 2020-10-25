@@ -18,6 +18,9 @@ In this repository you will follow my progress during classes from level 01 to 0
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/Rocketseat-Typescript-c4c08685bd9e48ff803fb2bd5bd53244">Typescript</a>
 
+<a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/Rocketseat-Padr-es-de-projeto-com-ESLint-Prettier-e-EditorConfig-2a8b4fb0fa994a399d2ea2f1e751416d">Padrões de projeto com ESLint, Prettier e EditorConfig</a>
+
+
 ### 📈 Level Results
 Level 01<br />
 <img alt="Level 01 Result" src=".github/level-01.png" style="width: 100%;"/>
