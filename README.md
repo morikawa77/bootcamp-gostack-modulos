@@ -27,7 +27,7 @@ In this repository you will follow my progress during classes from level 01 to 0
 
 ### 📈 Level Results
 Level 01<br />
-<img alt="Level 01 Result" src=".github/level-01.png" style="width: 50%;"/>
+<img alt="Level 01 Result" src=".github/level-01.png" style="width: 350px;"/>
 
 
 
