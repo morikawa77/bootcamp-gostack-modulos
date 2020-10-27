@@ -185,5 +185,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,linux,windows,node
 
-tmp/**
-!tmp/.gitkeep
+nivel-02/02-iniciando-back-end-do-app/tmp/**
+!nivel-02/02-iniciando-back-end-do-app/tmp/.gitkeep
