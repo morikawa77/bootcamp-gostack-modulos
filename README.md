@@ -28,8 +28,10 @@ In this repository you will follow my progress during classes from level 01 to 0
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/file/ZkYathhNkz0hriK2PWZNBC/Github-Explorer?node-id=0%3A1">Github Explorer Figma file</a>
 
+<figure>
 <img alt="Github Explorer" src=".github/github-explorer.png" style="width: 100%;"/>
-Github Explorer
+<figcaption>Github Explorer</figcaption>
+</figure>
 
 <img alt="Github Explorer" src=".github/github-explorer-error-null.png" style="width: 100%;"/>
 Github Explorer Null Error
