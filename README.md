@@ -26,6 +26,24 @@ In this repository you will follow my progress during classes from level 01 to 0
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.notion.so/Rocketseat-Instalando-Docker-fd3680b445474bd2aaaba520290320e5">Instalando Docker</a>
 
+<a target="_blank" rel="noopener noreferrer" href="https://www.figma.com/file/ZkYathhNkz0hriK2PWZNBC/Github-Explorer?node-id=0%3A1">Github Explorer Figma file</a>
+
+<img alt="Github Explorer" src=".github/github-explorer.png" style="width: 100%;"/>
+Github Explorer
+
+<img alt="Github Explorer" src=".github/github-explorer-error-null.png" style="width: 100%;"/>
+Github Explorer Null Error
+
+<img alt="Github Explorer" src=".github/github-explorer-error-not-find.png" style="width: 100%;"/>
+Github Explorer Not Found Error
+
+<img alt="Github Explorer" src=".github/github-explorer-list-repos-localstorage.png" style="width: 100%;"/>
+Github Explorer Listing Repos Saved on LocalStorage
+
+<img alt="Github Explorer" src=".github/github-explorer-list-info-and-issues-from-repo.png" style="width: 100%;"/>
+Github Explorer Show Details and Issues List from Repo
+
+
 
 ### 📈 Level Results
 Level 01<br />
