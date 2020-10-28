@@ -50,11 +50,13 @@ Github Explorer Show Details and Issues List from Repo
 
 
 ### 📈 Level Results
-Level 01<br />
-<img alt="Level 01 Result" src=".github/level-01.png"/>
 
-Level 02<br />
-<img alt="Level 01 Result" src=".github/level-02.png"/>
+| Level 01  | Level 02  |
+|  <img alt="Level 01 Result" src=".github/level-01.png"/> |  <img alt="Level 01 Result" src=".github/level-02.png"/> |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
 
 
 
